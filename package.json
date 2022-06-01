@@ -1,6 +1,7 @@
 {
   "name": "dtmoney",
   "version": "0.1.0",
+  "homepage": "DT-Money/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
