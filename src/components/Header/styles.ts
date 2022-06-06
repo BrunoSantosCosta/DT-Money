@@ -27,4 +27,12 @@ export const Content = styled.div`
     }
   }
 
+  @media screen and (max-width: 745px) { 
+    flex-direction: column;
+    button {
+      margin-top: 50px;
+    }
+  }
+
+
 `;
