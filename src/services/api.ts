@@ -19,7 +19,7 @@ function falseApi() {
             id: 1,
             title: 'Dividendos',
             type: 'deposit',
-            category: 'Dev',
+            category: 'Fundos Imobiliarios',
             amount: 3000,
             createdAt: new Date('2021-02-12 09:00:00'),
           },
